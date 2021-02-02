@@ -1,6 +1,6 @@
 {
-  "name": "validation",
-  "version": "1.0.1",
+  "name": "all-js-validation",
+  "version": "1.0.0",
   "description": "",
   "main": "validation.js",
   "repository": {
@@ -13,5 +13,8 @@
     "url": "https://github.com/man21/validation/issues"
   },
   "homepage": "https://github.com/man21/validation#readme",
-  "dependencies": {}
+  "keywords": [
+    "validation",
+    "validator"
+  ]
 }
