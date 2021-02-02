@@ -1,0 +1,17 @@
+{
+  "name": "validation",
+  "version": "1.0.1",
+  "description": "",
+  "main": "validation.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/man21/validation.git"
+  },
+  "author": "Mann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/man21/validation/issues"
+  },
+  "homepage": "https://github.com/man21/validation#readme",
+  "dependencies": {}
+}
